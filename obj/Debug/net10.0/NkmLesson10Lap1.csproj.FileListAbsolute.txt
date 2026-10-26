@@ -97,3 +97,4 @@ E:\LaptrinhWeb\BaiTap\NkmLesson10Lap1\obj\Debug\net10.0\NkmLesson10Lap1.pdb
 E:\LaptrinhWeb\BaiTap\NkmLesson10Lap1\obj\Debug\net10.0\NkmLesson10Lap1.genruntimeconfig.cache
 E:\LaptrinhWeb\BaiTap\NkmLesson10Lap1\obj\Debug\net10.0\ref\NkmLesson10Lap1.dll
 E:\LaptrinhWeb\BaiTap\NkmLesson10Lap1\obj\Debug\net10.0\NkmLesso.E586E378.Up2Date
+E:\LaptrinhWeb\BaiTap\NkmLesson10Lap1\obj\Debug\net10.0\NkmLesson10Lap1.sourcelink.json
